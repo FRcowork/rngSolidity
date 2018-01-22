@@ -1,1 +1,2 @@
 # rngSolidity
+.DS_Store
